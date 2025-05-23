@@ -63,7 +63,3 @@ Neste modelo, a responsabilidade total da infraestrutura e segurança é do clie
 | Hosts físicos | Provedor |
 | Rede física | Provedor |
 | Datacenter físico | Provedor |
-
----
-
-Este arquivo `README.md` está bem estruturado e organizado, pronto para ser utilizado! Se precisar de ajustes ou quiser adicionar mais detalhes, estou à disposição. 😃🚀
